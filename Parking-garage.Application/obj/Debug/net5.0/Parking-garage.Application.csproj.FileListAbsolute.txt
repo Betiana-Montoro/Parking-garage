@@ -1,0 +1,16 @@
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\bin\Debug\net5.0\Parking-garage.Application.deps.json
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\bin\Debug\net5.0\Parking-garage.Application.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\bin\Debug\net5.0\ref\Parking-garage.Application.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\bin\Debug\net5.0\Parking-garage.Application.pdb
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\bin\Debug\net5.0\Parking-garage.Model.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\bin\Debug\net5.0\Parking-garage.Model.pdb
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\obj\Debug\net5.0\Parking-garage.Application.csproj.AssemblyReference.cache
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\obj\Debug\net5.0\Parking-garage.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\obj\Debug\net5.0\Parking-garage.Application.AssemblyInfoInputs.cache
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\obj\Debug\net5.0\Parking-garage.Application.AssemblyInfo.cs
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\obj\Debug\net5.0\Parking-garage.Application.csproj.CoreCompileInputs.cache
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\obj\Debug\net5.0\Parking-garage.Application.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\obj\Debug\net5.0\ref\Parking-garage.Application.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\obj\Debug\net5.0\Parking-garage.Application.pdb
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\bin\Debug\net5.0\Parking-garage.MsSQL.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.Application\bin\Debug\net5.0\Parking-garage.MsSQL.pdb

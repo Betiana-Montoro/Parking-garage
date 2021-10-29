@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\betiana.montoro\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\betiana.montoro\\.nuget\\packages"
+    ]
+  }
+}

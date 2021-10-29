@@ -1,0 +1,14 @@
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\bin\Debug\net5.0\Parking-garage.MsSQL.deps.json
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\bin\Debug\net5.0\Parking-garage.MsSQL.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\bin\Debug\net5.0\ref\Parking-garage.MsSQL.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\bin\Debug\net5.0\Parking-garage.MsSQL.pdb
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\bin\Debug\net5.0\Parking-garage.Model.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\bin\Debug\net5.0\Parking-garage.Model.pdb
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\obj\Debug\net5.0\Parking-garage.MsSQL.csproj.AssemblyReference.cache
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\obj\Debug\net5.0\Parking-garage.MsSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\obj\Debug\net5.0\Parking-garage.MsSQL.AssemblyInfoInputs.cache
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\obj\Debug\net5.0\Parking-garage.MsSQL.AssemblyInfo.cs
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\obj\Debug\net5.0\Parking-garage.MsSQL.csproj.CoreCompileInputs.cache
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\obj\Debug\net5.0\Parking-garage.MsSQL.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\obj\Debug\net5.0\ref\Parking-garage.MsSQL.dll
+C:\WEP API repo\Parking-garage\Parking-garage\Parking-garage.MsSQL\obj\Debug\net5.0\Parking-garage.MsSQL.pdb

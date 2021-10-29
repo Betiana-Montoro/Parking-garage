@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking-garage", "Parking-garage\Parking-garage.csproj", "{EE321D7E-CF20-417E-BF3B-C4A676184B03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking-garage.Application", "Parking-garage.Application\Parking-garage.Application.csproj", "{F4B53A48-A86E-4A6D-A60A-6E3A19966291}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking-garage.Model", "Parking-garage.Model\Parking-garage.Model.csproj", "{2A6EBB96-759E-4BCA-9F05-EE447F325763}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking-garage.MsSQL", "Parking-garage.MsSQL\Parking-garage.MsSQL.csproj", "{8DCB2BA7-68AA-4279-8B1F-C4EE1A17E93E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parking-garage.Manager", "Parking-garage.Manager\Parking-garage.Manager.csproj", "{0B3FC43D-AEE1-4206-BE05-0DC7951E3C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestParking-Garage", "XUnitTestParking-Garage\XUnitTestParking-Garage.csproj", "{3C9524D8-5DCF-48D1-96A0-A0CE6AEA6EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE321D7E-CF20-417E-BF3B-C4A676184B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE321D7E-CF20-417E-BF3B-C4A676184B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE321D7E-CF20-417E-BF3B-C4A676184B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE321D7E-CF20-417E-BF3B-C4A676184B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B53A48-A86E-4A6D-A60A-6E3A19966291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B53A48-A86E-4A6D-A60A-6E3A19966291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B53A48-A86E-4A6D-A60A-6E3A19966291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B53A48-A86E-4A6D-A60A-6E3A19966291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6EBB96-759E-4BCA-9F05-EE447F325763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6EBB96-759E-4BCA-9F05-EE447F325763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6EBB96-759E-4BCA-9F05-EE447F325763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6EBB96-759E-4BCA-9F05-EE447F325763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DCB2BA7-68AA-4279-8B1F-C4EE1A17E93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DCB2BA7-68AA-4279-8B1F-C4EE1A17E93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DCB2BA7-68AA-4279-8B1F-C4EE1A17E93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DCB2BA7-68AA-4279-8B1F-C4EE1A17E93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3FC43D-AEE1-4206-BE05-0DC7951E3C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3FC43D-AEE1-4206-BE05-0DC7951E3C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3FC43D-AEE1-4206-BE05-0DC7951E3C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3FC43D-AEE1-4206-BE05-0DC7951E3C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C9524D8-5DCF-48D1-96A0-A0CE6AEA6EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9524D8-5DCF-48D1-96A0-A0CE6AEA6EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9524D8-5DCF-48D1-96A0-A0CE6AEA6EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9524D8-5DCF-48D1-96A0-A0CE6AEA6EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D391B2C-508A-407E-B264-5A2CA140EAF9}
+	EndGlobalSection
+EndGlobal
