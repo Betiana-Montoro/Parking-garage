@@ -4,6 +4,9 @@ WORKDIR /app
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
 WORKDIR /src
 COPY ["Parking-garage/Parking-garage.csproj", "Parking-garage/"]
+COPY ["Parking-garage.Application/Parking-garage.Application.csproj", "Parking-garage.Application/"]
+COPY ["Parking-garage.Model/Parking-garage.Model.csproj", "Parking-garage.Model/"]
+COPY ["Parking-garage.MsSQL/Parking-garage.MsSQL.csproj", "Parking-garage.MsSQL/"]
 RUN dotnet restore "Parking-garage/Parking-garage.csproj"
 COPY . .
 WORKDIR "/src/Parking-garage"
